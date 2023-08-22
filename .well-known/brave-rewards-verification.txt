@@ -1,0 +1,4 @@
+This is a Brave Creators publisher verification file.
+
+Domain: sir-david.github.io
+Token: 8c9724d231095023ca0101ad8b48f961f607e575a8c2aa019bd41686e9a50029
